@@ -1,0 +1,28 @@
+TO DO OR IDEAS:
+
+-> REORGANIZE WEAPONRY
+	-> Placing any input for guns into PlayerInput (DONE)
+	-> Test Gun Scripts
+		-> Make them for the sake of the current way of making things. (DONE)
+	-> Find out if scripts for where guns go are redundant
+		-> Maybe?
+			-> Choice Mercs and Abilities
+				-> If Merc has 2 strong Abilities and one gets used up, the other must cooldown as well
+				-> Most ability max use combinations should be 1/1; but should not assume that
+					-> 
+-> ANIMATION
+	-> Hands only for First Person
+	-> Whole body with meh animations for other perspective (and shadows)
+	-> After finishing sprinting, do not shoot until gun is aiming to the crosshair
+		-> Figure out how to spread out transition per gun for "prepare gun" (sprint -> idle) perks and stats?
+
+-> MOVEMENT
+	-> Sprinting left and right (more smooth?)
+	-> Player "skips" when moving down slopes. Fix?
+	-> Jumping and wall jumping.
+
+!!
+	-> Objectives not working anymore
+	-> Person animation?
+	-> Another CPU for damage looks
+	-> Self damage?
